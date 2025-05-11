@@ -8,11 +8,11 @@ const PORT = 5000;
 
 // PostgreSQL connection config (correct port is 5432)
 const pool = new Pool({
-  user: 'postgres',
-  host: 'localhost',
-  database: 'Majora9',
-  password: 'Narendra@2005',
-  port: 5432, // ✅ Corrected PostgreSQL port
+  user: '*******',
+  host: '*******',
+  database: '******',
+  password: '*******',
+  port: 5432, // 
 });
 
 // Test DB connection
